@@ -1,0 +1,19 @@
+.jumbotron {
+    background-image: url(/img/jumbotron_home.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    position: fixed;
+    overflow: hidden;
+}
+
+.jumbotron .display-4 {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.jumbotron p {
+    font-weight: bold;
+}
